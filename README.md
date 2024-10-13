@@ -1,9 +1,9 @@
 # Data Dawgs MIST 4610 Group Project 1
 
-#Team Name
+Team Name
 15058 Data Dawgs
 
-#Team Member Names:
+Team Member Names:
 1. Hailey Franz
 2. Annabelle Dolhun
 3. Madeleine Fordham,
